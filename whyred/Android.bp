@@ -1,5 +1,9 @@
 /**
+<<<<<<< HEAD
  * Copyright (C) 2019-2020 The LineageOS Project
+=======
+ * Copyright (C) 2020 Paranoid Android
+>>>>>>> 5f84241... sdm660-common: Import libqcomfm_jni and build it as module [2/2]
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
