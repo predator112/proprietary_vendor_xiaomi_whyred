@@ -531,11 +531,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libantradio \
     libqcomfm_jni \
-    libgpustats \
-    libsdm-disp-vndapis \
-    libthermalclient \
-    libtime_genoff \
-    vendor.qti.hardware.fm@1.0 \
     SoterService \
     WfdService \
     com.qualcomm.location \
